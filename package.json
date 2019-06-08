@@ -7,7 +7,6 @@
     "next": "8.1.0",
     "react": "16.8.6",
     "react-dom": "16.8.6",
-    "cowsay": "1.4.0",
     "cowsay-browser": "1.1.8"
   },
   "scripts": {
